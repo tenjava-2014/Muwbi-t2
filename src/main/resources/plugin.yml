@@ -1,0 +1,3 @@
+name: Muwbi-t2
+main: com.tenjava.entries.Muwbi.t2.TenJava
+version: '${project.version}'
